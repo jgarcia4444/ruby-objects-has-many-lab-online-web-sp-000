@@ -22,6 +22,5 @@ class Author
     Post.all.size
   end
 
-  end
 
 end
